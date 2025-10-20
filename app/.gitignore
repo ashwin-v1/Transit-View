@@ -1,0 +1,5 @@
+/routes/kpis.py
+/routes/stops.py
+/routes/__pycache__/
+/services/__pycache__/
+/models
